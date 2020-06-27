@@ -1,0 +1,6 @@
+name: CmdItem
+version: ${project.version}
+main: com.mcsunnyside.cmditem.cmditem.CmdItem
+api-version: 1.13
+softdepend:
+  - PlaceholderAPI
